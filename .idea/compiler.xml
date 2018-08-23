@@ -5,9 +5,76 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dubbo" options="-proc:none" />
+      <module name="dubbo-bootstrap" options="-proc:none" />
+      <module name="dubbo-cluster" options="-proc:none" />
+      <module name="dubbo-common" options="-proc:none" />
+      <module name="dubbo-compatible" options="-proc:none" />
+      <module name="dubbo-config" options="-proc:none" />
+      <module name="dubbo-config-api" options="-proc:none" />
+      <module name="dubbo-config-spring" options="-proc:none" />
+      <module name="dubbo-container" options="-proc:none" />
+      <module name="dubbo-container-api" options="-proc:none" />
+      <module name="dubbo-container-log4j" options="-proc:none" />
+      <module name="dubbo-container-logback" options="-proc:none" />
+      <module name="dubbo-container-spring" options="-proc:none" />
+      <module name="dubbo-demo" options="-proc:none" />
+      <module name="dubbo-demo-api" options="-proc:none" />
+      <module name="dubbo-demo-consumer" options="-proc:none" />
+      <module name="dubbo-demo-provider" options="-proc:none" />
+      <module name="dubbo-distribution" options="-proc:none" />
+      <module name="dubbo-example-http2" options="-proc:none" />
+      <module name="dubbo-filter" options="-proc:none" />
+      <module name="dubbo-filter-cache" options="-proc:none" />
+      <module name="dubbo-filter-validation" options="-proc:none" />
+      <module name="dubbo-http2-api" options="-proc:none" />
       <module name="dubbo-http2-consumer" options="-proc:none" />
       <module name="dubbo-http2-provider" options="-proc:none" />
+      <module name="dubbo-monitor" options="-proc:none" />
+      <module name="dubbo-monitor-api" options="-proc:none" />
+      <module name="dubbo-monitor-default" options="-proc:none" />
+      <module name="dubbo-parent" options="-proc:none" />
+      <module name="dubbo-plugin" options="-proc:none" />
+      <module name="dubbo-qos" options="-proc:none" />
+      <module name="dubbo-registry" options="-proc:none" />
+      <module name="dubbo-registry-api" options="-proc:none" />
+      <module name="dubbo-registry-default" options="-proc:none" />
+      <module name="dubbo-registry-multicast" options="-proc:none" />
+      <module name="dubbo-registry-redis" options="-proc:none" />
+      <module name="dubbo-registry-zookeeper" options="-proc:none" />
+      <module name="dubbo-remoting" options="-proc:none" />
+      <module name="dubbo-remoting-api" options="-proc:none" />
+      <module name="dubbo-remoting-grizzly" options="-proc:none" />
+      <module name="dubbo-remoting-http" options="-proc:none" />
+      <module name="dubbo-remoting-mina" options="-proc:none" />
+      <module name="dubbo-remoting-netty" options="-proc:none" />
+      <module name="dubbo-remoting-netty4" options="-proc:none" />
+      <module name="dubbo-remoting-p2p" options="-proc:none" />
+      <module name="dubbo-remoting-zookeeper" options="-proc:none" />
+      <module name="dubbo-rpc" options="-proc:none" />
+      <module name="dubbo-rpc-api" options="-proc:none" />
+      <module name="dubbo-rpc-dubbo" options="-proc:none" />
+      <module name="dubbo-rpc-hessian" options="-proc:none" />
+      <module name="dubbo-rpc-http" options="-proc:none" />
       <module name="dubbo-rpc-http2" options="-proc:none" />
+      <module name="dubbo-rpc-injvm" options="-proc:none" />
+      <module name="dubbo-rpc-memcached" options="-proc:none" />
+      <module name="dubbo-rpc-redis" options="-proc:none" />
+      <module name="dubbo-rpc-rest" options="-proc:none" />
+      <module name="dubbo-rpc-rmi" options="-proc:none" />
+      <module name="dubbo-rpc-thrift" options="-proc:none" />
+      <module name="dubbo-rpc-webservice" options="-proc:none" />
+      <module name="dubbo-serialization" options="-proc:none" />
+      <module name="dubbo-serialization-api" options="-proc:none" />
+      <module name="dubbo-serialization-fastjson" options="-proc:none" />
+      <module name="dubbo-serialization-fst" options="-proc:none" />
+      <module name="dubbo-serialization-hessian2" options="-proc:none" />
+      <module name="dubbo-serialization-jdk" options="-proc:none" />
+      <module name="dubbo-serialization-kryo" options="-proc:none" />
+      <module name="dubbo-test" options="-proc:none" />
+      <module name="dubbo-test-compatibility" options="-proc:none" />
+      <module name="dubbo-test-integration" options="-proc:none" />
+      <module name="dubbo-test-spring3" options="-proc:none" />
     </option>
   </component>
 </project>

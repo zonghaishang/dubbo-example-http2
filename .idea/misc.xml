@@ -12,8 +12,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../incubator-dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/../dubbo-rpc-http2/pom.xml" />
+        <option value="$PROJECT_DIR$/../incubator-dubbo/pom.xml" />
       </list>
     </option>
   </component>
