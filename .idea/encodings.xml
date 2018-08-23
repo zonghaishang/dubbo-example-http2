@@ -5,6 +5,74 @@
     <file url="file://$PROJECT_DIR$/dubbo-http2-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-http2-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-http2-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dubbo-rpc-http2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/bom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dependencies-bom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-bootstrap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-cluster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-compatible" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-config/dubbo-config-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-config/dubbo-config-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-container" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-container/dubbo-container-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-container/dubbo-container-log4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-container/dubbo-container-logback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-container/dubbo-container-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-demo/dubbo-demo-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-demo/dubbo-demo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-demo/dubbo-demo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-filter/dubbo-filter-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-filter/dubbo-filter-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-monitor/dubbo-monitor-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-monitor/dubbo-monitor-default" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-plugin/dubbo-qos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-registry/dubbo-registry-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-registry/dubbo-registry-default" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-registry/dubbo-registry-multicast" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-registry/dubbo-registry-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-registry/dubbo-registry-zookeeper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting/dubbo-remoting-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting/dubbo-remoting-grizzly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting/dubbo-remoting-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting/dubbo-remoting-mina" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting/dubbo-remoting-netty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting/dubbo-remoting-netty4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting/dubbo-remoting-p2p" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-remoting/dubbo-remoting-zookeeper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-hessian" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-injvm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-memcached" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-rmi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-thrift" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-rpc/dubbo-rpc-webservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-serialization" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-serialization/dubbo-serialization-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-serialization/dubbo-serialization-fastjson" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-serialization/dubbo-serialization-fst" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-serialization/dubbo-serialization-hessian2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-serialization/dubbo-serialization-jdk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-serialization/dubbo-serialization-kryo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-test/dubbo-test-compatibility" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-test/dubbo-test-compatibility/dubbo-test-spring3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../incubator-dubbo/dubbo-test/dubbo-test-integration" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

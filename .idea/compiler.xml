@@ -5,10 +5,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="dubbo-example-http2" options="-proc:none" />
-      <module name="dubbo-http2-api" options="-proc:none" />
       <module name="dubbo-http2-consumer" options="-proc:none" />
       <module name="dubbo-http2-provider" options="-proc:none" />
+      <module name="dubbo-rpc-http2" options="-proc:none" />
     </option>
   </component>
 </project>
